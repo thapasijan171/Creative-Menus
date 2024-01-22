@@ -1,7 +1,5 @@
 # Creative Menus with HTML and CSS
 
-![Creative Menus Preview](link/to/your/image.png)
-
 ## Overview
 
 This repository contains a set of creative menus created using HTML and CSS. These menus are designed to add an aesthetic touch to your web projects and enhance the user experience.
